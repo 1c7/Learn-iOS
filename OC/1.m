@@ -1,15 +1,9 @@
+#import <Foundation/Foundation.h>
 
-
-
-#import <Foundation/NSObjCRuntime.h>
-// NSObjCRuntime have the NSLog..
 int main()
 {
-    
-    
-    
-    NSLog(@"hello");
-    return 0;
 
+    NSLog(@"second programe");
+    return 0;
 
 }
