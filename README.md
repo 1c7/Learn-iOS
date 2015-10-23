@@ -1,19 +1,25 @@
 # 学 iOS 开发写的笔记和代码
 #### 环境 
-硬件:  Mac mini
-系统:  OS X EI Caption (10.11)
-Xcode 版本:  7.0.1
+硬件:  Mac mini  
+系统:  OS X EI Caption (10.11)  
+Xcode 版本:  7.0.1  
 
 
-
-UIKit 是 iOS 开发的核心框架  必学
+<br/>
+<br/>
+### 小备注
+UIKit 是 iOS 开发的核心框架  必学  
 
 
 <br/>
 <br/>
 ## 学习资料
 1. (OC) 传智播客的 iOS 视频
-2. (Swift) Youtube -  channel: thenewboston - iOS Development with Swift
+2. (Swift) Youtube -  channel: thenewboston - __iOS Development with Swift__
+
+
+
+---
 
 
 
