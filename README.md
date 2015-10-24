@@ -5,6 +5,15 @@
 Xcode 版本:  7.0.1  
 
 
+### 学习来源
+
+https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/
+http://blog.csdn.net/hherima/article/details/8620941
+http://ios-blog.co.uk/tutorials/beginners-ios-development-objective-c/
+
+
+
+
 
 <br/>
 ### 要学的东西
