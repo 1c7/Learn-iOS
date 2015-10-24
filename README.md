@@ -7,12 +7,13 @@ Xcode 版本:  7.0.1
 
 ### 学习来源
 
-https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/
-http://blog.csdn.net/hherima/article/details/8620941
-http://ios-blog.co.uk/tutorials/beginners-ios-development-objective-c/
-
-
-
+https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/   
+http://blog.csdn.net/hherima/article/details/8620941    
+http://ios-blog.co.uk/tutorials/beginners-ios-development-objective-c/   
+Learn Objective-C  
+http://cocoadevcentral.com/d/learn_objectivec/    
+About Objective-C  
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html  
 
 
 <br/>
