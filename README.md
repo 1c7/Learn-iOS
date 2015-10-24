@@ -10,10 +10,24 @@ Xcode 版本:  7.0.1
 https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/   
 http://blog.csdn.net/hherima/article/details/8620941    
 http://ios-blog.co.uk/tutorials/beginners-ios-development-objective-c/   
+
+
 Learn Objective-C  
 http://cocoadevcentral.com/d/learn_objectivec/    
+
+
 About Objective-C  
 https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html  
+
+马上着手开发 iOS 应用程序 (Start Developing iOS Apps Today)  
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/DesigningaUserInterface.html#//apple_ref/doc/uid/TP40012668-CH6-SW1  
+
+
+Google Objective-C Style Guide 中文版  
+http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/   
+
+[ISUX转译]iOS7人机界面指南  
+http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html  
 
 
 <br/>
