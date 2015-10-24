@@ -12,22 +12,28 @@ http://blog.csdn.net/hherima/article/details/8620941
 http://ios-blog.co.uk/tutorials/beginners-ios-development-objective-c/   
 
 
-Learn Objective-C  
+__Learn Objective-C__  
 http://cocoadevcentral.com/d/learn_objectivec/    
 
 
-About Objective-C  
+__About Objective-C__  
 https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html  
 
-马上着手开发 iOS 应用程序 (Start Developing iOS Apps Today)  
+__马上着手开发 iOS 应用程序 (Start Developing iOS Apps Today)__  
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/DesigningaUserInterface.html#//apple_ref/doc/uid/TP40012668-CH6-SW1  
 
 
-Google Objective-C Style Guide 中文版  
+__Google Objective-C Style Guide 中文版__  
 http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/   
 
-[ISUX转译]iOS7人机界面指南  
+__[ISUX转译]iOS7人机界面指南__  
 http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html  
+
+
+__iOS开发60分钟入门__  
+https://github.com/qinjx/30min_guides/blob/master/ios.md  
+
+
 
 
 <br/>
